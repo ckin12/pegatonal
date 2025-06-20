@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "562906844234",
+    "project_id": "datn-1fc4c",
+    "storage_bucket": "datn-1fc4c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562906844234:android:beeb861b628af675492ab3",
+        "android_client_info": {
+          "package_name": "com.pegatoon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoUZxbsm-6pqhgh5EEL9jqSZrjrfqedNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

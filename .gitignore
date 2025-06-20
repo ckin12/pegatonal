@@ -1,0 +1,22 @@
+# node modules
+node_modules/
+
+# logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE folders
+.vscode/
+.idea/
+
+# build folders
+android/.gradle/
+android/app/build/
+ios/Pods/
+ios/build/
+
+# misc
+.expo/

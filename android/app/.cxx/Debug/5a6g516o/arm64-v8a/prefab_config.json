@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "prefabPath": "C:\\Users\\FPTSHOP\\.gradle\\caches\\modules-2\\files-2.1\\com.google.prefab\\cli\\2.1.0\\aa32fec809c44fa531f01dcfb739b5b3304d3050\\cli-2.1.0-all.jar",
+  "packages": [
+    "C:\\Users\\FPTSHOP\\.gradle\\caches\\8.13\\transforms\\eea336180d0506200638226c9258ed43\\transformed\\react-android-0.79.3-debug\\prefab",
+    "D:\\DATN-Pegatoon\\FixPegatoon-main\\FixPegatoon-main\\node_modules\\react-native-reanimated\\android\\build\\intermediates\\prefab_package\\debug\\prefab",
+    "C:\\Users\\FPTSHOP\\.gradle\\caches\\8.13\\transforms\\bb72a8786d445a14acf7b38e2f843300\\transformed\\hermes-android-0.79.3-debug\\prefab",
+    "C:\\Users\\FPTSHOP\\.gradle\\caches\\8.13\\transforms\\2994d3a81c00094672b52e475b297250\\transformed\\fbjni-0.7.0\\prefab"
+  ]
+}
