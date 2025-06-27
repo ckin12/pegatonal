@@ -6,6 +6,7 @@
     "C:\\Users\\ADMIN\\FixPegatoon1206-main\\node_modules\\@react-native-picker\\picker\\android\\src\\main\\jni\\CMakeLists.txt",
     "C:\\Users\\ADMIN\\FixPegatoon1206-main\\node_modules\\react-native-gesture-handler\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
     "C:\\Users\\ADMIN\\FixPegatoon1206-main\\node_modules\\react-native-image-picker\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
+    "C:\\Users\\ADMIN\\FixPegatoon1206-main\\node_modules\\react-native-pager-view\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
     "C:\\Users\\ADMIN\\FixPegatoon1206-main\\node_modules\\react-native-reanimated\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
     "C:\\Users\\ADMIN\\FixPegatoon1206-main\\node_modules\\react-native-safe-area-context\\android\\src\\main\\jni\\CMakeLists.txt",
     "C:\\Users\\ADMIN\\FixPegatoon1206-main\\node_modules\\react-native-screens\\android\\src\\main\\jni\\CMakeLists.txt",
@@ -60,6 +61,11 @@
       "toolchain": "toolchain",
       "abi": "x86_64",
       "artifactName": "react_codegen_RNVectorIconsSpec"
+    },
+    "react_codegen_pagerview::@7032a8921530ec438d60": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "react_codegen_pagerview"
     },
     "react_codegen_rnasyncstorage::@1596841e19ec5b9eeffe": {
       "toolchain": "toolchain",

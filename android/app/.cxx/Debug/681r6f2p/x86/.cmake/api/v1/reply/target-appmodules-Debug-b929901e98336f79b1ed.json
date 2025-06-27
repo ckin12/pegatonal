@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/build/intermediates/cxx/Debug/681r6f2p/obj/x86_64/libappmodules.so"
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/build/intermediates/cxx/Debug/681r6f2p/obj/x86/libappmodules.so"
 		}
 	],
 	"backtrace" : 3,
@@ -347,6 +347,14 @@
 		},
 		{
 			"backtrace" : 4,
+			"id" : "react_codegen_pagerview::@7032a8921530ec438d60"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "react_codegen_RNImagePickerSpec::@f66ee9a2efecfb28bee4"
+		},
+		{
+			"backtrace" : 4,
 			"id" : "react_codegen_rnpicker::@e8bb2e9e833f47d0d516"
 		},
 		{
@@ -355,15 +363,7 @@
 		},
 		{
 			"backtrace" : 4,
-			"id" : "react_codegen_RNImagePickerSpec::@f66ee9a2efecfb28bee4"
-		},
-		{
-			"backtrace" : 4,
-			"id" : "react_codegen_pagerview::@7032a8921530ec438d60"
-		},
-		{
-			"backtrace" : 4,
-			"id" : "react_codegen_safeareacontext::@7984cd80db47aa7b952a"
+			"id" : "react_codegen_rnreanimated::@8afabad14bfffa3f8b9a"
 		},
 		{
 			"backtrace" : 4,
@@ -371,7 +371,7 @@
 		},
 		{
 			"backtrace" : 4,
-			"id" : "react_codegen_rnreanimated::@8afabad14bfffa3f8b9a"
+			"id" : "react_codegen_safeareacontext::@7984cd80db47aa7b952a"
 		},
 		{
 			"backtrace" : 4,
@@ -384,37 +384,37 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "-Wl,-z,max-page-size=16384 -Wl,--build-id=sha1 -Wl,--no-rosegment -Wl,--no-undefined-version -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments",
+				"fragment" : "-Wl,--build-id=sha1 -Wl,--no-rosegment -Wl,--no-undefined-version -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments",
 				"role" : "flags"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "C:\\Users\\ADMIN\\FixPegatoon1206-main\\android\\app\\build\\intermediates\\cxx\\Debug\\681r6f2p\\obj\\x86_64\\libreact_codegen_rnpicker.so",
+				"fragment" : "C:\\Users\\ADMIN\\FixPegatoon1206-main\\android\\app\\build\\intermediates\\cxx\\Debug\\681r6f2p\\obj\\x86\\libreact_codegen_rnpicker.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "C:\\Users\\ADMIN\\FixPegatoon1206-main\\android\\app\\build\\intermediates\\cxx\\Debug\\681r6f2p\\obj\\x86_64\\libreact_codegen_safeareacontext.so",
+				"fragment" : "C:\\Users\\ADMIN\\FixPegatoon1206-main\\android\\app\\build\\intermediates\\cxx\\Debug\\681r6f2p\\obj\\x86\\libreact_codegen_safeareacontext.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "C:\\Users\\ADMIN\\FixPegatoon1206-main\\android\\app\\build\\intermediates\\cxx\\Debug\\681r6f2p\\obj\\x86_64\\libreact_codegen_rnscreens.so",
+				"fragment" : "C:\\Users\\ADMIN\\FixPegatoon1206-main\\android\\app\\build\\intermediates\\cxx\\Debug\\681r6f2p\\obj\\x86\\libreact_codegen_rnscreens.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Users\\ADMIN\\.gradle\\caches\\8.13\\transforms\\2994d3a81c00094672b52e475b297250\\transformed\\fbjni-0.7.0\\prefab\\modules\\fbjni\\libs\\android.x86_64\\libfbjni.so",
+				"fragment" : "C:\\Users\\ADMIN\\.gradle\\caches\\8.13\\transforms\\2994d3a81c00094672b52e475b297250\\transformed\\fbjni-0.7.0\\prefab\\modules\\fbjni\\libs\\android.x86\\libfbjni.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Users\\ADMIN\\.gradle\\caches\\8.13\\transforms\\eea336180d0506200638226c9258ed43\\transformed\\react-android-0.79.3-debug\\prefab\\modules\\jsi\\libs\\android.x86_64\\libjsi.so",
+				"fragment" : "C:\\Users\\ADMIN\\.gradle\\caches\\8.13\\transforms\\eea336180d0506200638226c9258ed43\\transformed\\react-android-0.79.3-debug\\prefab\\modules\\jsi\\libs\\android.x86\\libjsi.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Users\\ADMIN\\.gradle\\caches\\8.13\\transforms\\eea336180d0506200638226c9258ed43\\transformed\\react-android-0.79.3-debug\\prefab\\modules\\reactnative\\libs\\android.x86_64\\libreactnative.so",
+				"fragment" : "C:\\Users\\ADMIN\\.gradle\\caches\\8.13\\transforms\\eea336180d0506200638226c9258ed43\\transformed\\react-android-0.79.3-debug\\prefab\\modules\\reactnative\\libs\\android.x86\\libreactnative.so",
 				"role" : "libraries"
 			},
 			{
@@ -525,337 +525,337 @@
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ComponentDescriptors.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ComponentDescriptors.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/EventEmitters.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/EventEmitters.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/Props.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/Props.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ShadowNodes.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ShadowNodes.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/States.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/States.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/rnasyncstorageJSI-generated.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/rnasyncstorageJSI-generated.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/rnasyncstorage-generated.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/rnasyncstorage-generated.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNDateTimePickerCGen_autolinked_build/CMakeFiles/react_codegen_RNDateTimePickerCGen.dir/RNDateTimePickerCGen-generated.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNDateTimePickerCGen_autolinked_build/CMakeFiles/react_codegen_RNDateTimePickerCGen.dir/RNDateTimePickerCGen-generated.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNDateTimePickerCGen_autolinked_build/CMakeFiles/react_codegen_RNDateTimePickerCGen.dir/react/renderer/components/RNDateTimePickerCGen/ComponentDescriptors.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNDateTimePickerCGen_autolinked_build/CMakeFiles/react_codegen_RNDateTimePickerCGen.dir/react/renderer/components/RNDateTimePickerCGen/ComponentDescriptors.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNDateTimePickerCGen_autolinked_build/CMakeFiles/react_codegen_RNDateTimePickerCGen.dir/react/renderer/components/RNDateTimePickerCGen/EventEmitters.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNDateTimePickerCGen_autolinked_build/CMakeFiles/react_codegen_RNDateTimePickerCGen.dir/react/renderer/components/RNDateTimePickerCGen/EventEmitters.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNDateTimePickerCGen_autolinked_build/CMakeFiles/react_codegen_RNDateTimePickerCGen.dir/react/renderer/components/RNDateTimePickerCGen/Props.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNDateTimePickerCGen_autolinked_build/CMakeFiles/react_codegen_RNDateTimePickerCGen.dir/react/renderer/components/RNDateTimePickerCGen/Props.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNDateTimePickerCGen_autolinked_build/CMakeFiles/react_codegen_RNDateTimePickerCGen.dir/13e5db451150cc1628879224ca4ec527/RNDateTimePickerCGenJSI-generated.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNDateTimePickerCGen_autolinked_build/CMakeFiles/react_codegen_RNDateTimePickerCGen.dir/react/renderer/components/RNDateTimePickerCGen/RNDateTimePickerCGenJSI-generated.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNDateTimePickerCGen_autolinked_build/CMakeFiles/react_codegen_RNDateTimePickerCGen.dir/react/renderer/components/RNDateTimePickerCGen/ShadowNodes.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNDateTimePickerCGen_autolinked_build/CMakeFiles/react_codegen_RNDateTimePickerCGen.dir/react/renderer/components/RNDateTimePickerCGen/ShadowNodes.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNDateTimePickerCGen_autolinked_build/CMakeFiles/react_codegen_RNDateTimePickerCGen.dir/react/renderer/components/RNDateTimePickerCGen/States.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNDateTimePickerCGen_autolinked_build/CMakeFiles/react_codegen_RNDateTimePickerCGen.dir/react/renderer/components/RNDateTimePickerCGen/States.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNGoogleSignInCGen_autolinked_build/CMakeFiles/react_codegen_RNGoogleSignInCGen.dir/RNGoogleSignInCGen-generated.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNGoogleSignInCGen_autolinked_build/CMakeFiles/react_codegen_RNGoogleSignInCGen.dir/RNGoogleSignInCGen-generated.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNGoogleSignInCGen_autolinked_build/CMakeFiles/react_codegen_RNGoogleSignInCGen.dir/react/renderer/components/RNGoogleSignInCGen/ComponentDescriptors.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNGoogleSignInCGen_autolinked_build/CMakeFiles/react_codegen_RNGoogleSignInCGen.dir/react/renderer/components/RNGoogleSignInCGen/ComponentDescriptors.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNGoogleSignInCGen_autolinked_build/CMakeFiles/react_codegen_RNGoogleSignInCGen.dir/react/renderer/components/RNGoogleSignInCGen/EventEmitters.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNGoogleSignInCGen_autolinked_build/CMakeFiles/react_codegen_RNGoogleSignInCGen.dir/react/renderer/components/RNGoogleSignInCGen/EventEmitters.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNGoogleSignInCGen_autolinked_build/CMakeFiles/react_codegen_RNGoogleSignInCGen.dir/react/renderer/components/RNGoogleSignInCGen/Props.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNGoogleSignInCGen_autolinked_build/CMakeFiles/react_codegen_RNGoogleSignInCGen.dir/react/renderer/components/RNGoogleSignInCGen/Props.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNGoogleSignInCGen_autolinked_build/CMakeFiles/react_codegen_RNGoogleSignInCGen.dir/react/renderer/components/RNGoogleSignInCGen/RNGoogleSignInCGenJSI-generated.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNGoogleSignInCGen_autolinked_build/CMakeFiles/react_codegen_RNGoogleSignInCGen.dir/react/renderer/components/RNGoogleSignInCGen/RNGoogleSignInCGenJSI-generated.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNGoogleSignInCGen_autolinked_build/CMakeFiles/react_codegen_RNGoogleSignInCGen.dir/react/renderer/components/RNGoogleSignInCGen/ShadowNodes.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNGoogleSignInCGen_autolinked_build/CMakeFiles/react_codegen_RNGoogleSignInCGen.dir/react/renderer/components/RNGoogleSignInCGen/ShadowNodes.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNGoogleSignInCGen_autolinked_build/CMakeFiles/react_codegen_RNGoogleSignInCGen.dir/react/renderer/components/RNGoogleSignInCGen/States.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNGoogleSignInCGen_autolinked_build/CMakeFiles/react_codegen_RNGoogleSignInCGen.dir/react/renderer/components/RNGoogleSignInCGen/States.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/ComponentDescriptors.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/ComponentDescriptors.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/EventEmitters.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/EventEmitters.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/Props.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/Props.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/ShadowNodes.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/ShadowNodes.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/States.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/States.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/bac033cd950586cef66695376748dd33/rngesturehandler_codegenJSI-generated.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/bac033cd950586cef66695376748dd33/rngesturehandler_codegenJSI-generated.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/rngesturehandler_codegen-generated.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/rngesturehandler_codegen-generated.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/RNImagePickerSpec-generated.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/RNImagePickerSpec-generated.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/ComponentDescriptors.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/ComponentDescriptors.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/EventEmitters.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/EventEmitters.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/Props.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/Props.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/RNImagePickerSpecJSI-generated.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/RNImagePickerSpecJSI-generated.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/ShadowNodes.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/ShadowNodes.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/States.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/States.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/pagerview_autolinked_build/CMakeFiles/react_codegen_pagerview.dir/pagerview-generated.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/pagerview_autolinked_build/CMakeFiles/react_codegen_pagerview.dir/pagerview-generated.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/pagerview_autolinked_build/CMakeFiles/react_codegen_pagerview.dir/react/renderer/components/pagerview/ComponentDescriptors.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/pagerview_autolinked_build/CMakeFiles/react_codegen_pagerview.dir/react/renderer/components/pagerview/ComponentDescriptors.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/pagerview_autolinked_build/CMakeFiles/react_codegen_pagerview.dir/react/renderer/components/pagerview/EventEmitters.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/pagerview_autolinked_build/CMakeFiles/react_codegen_pagerview.dir/react/renderer/components/pagerview/EventEmitters.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/pagerview_autolinked_build/CMakeFiles/react_codegen_pagerview.dir/react/renderer/components/pagerview/Props.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/pagerview_autolinked_build/CMakeFiles/react_codegen_pagerview.dir/react/renderer/components/pagerview/Props.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/pagerview_autolinked_build/CMakeFiles/react_codegen_pagerview.dir/react/renderer/components/pagerview/ShadowNodes.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/pagerview_autolinked_build/CMakeFiles/react_codegen_pagerview.dir/react/renderer/components/pagerview/ShadowNodes.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/pagerview_autolinked_build/CMakeFiles/react_codegen_pagerview.dir/react/renderer/components/pagerview/States.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/pagerview_autolinked_build/CMakeFiles/react_codegen_pagerview.dir/react/renderer/components/pagerview/States.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/pagerview_autolinked_build/CMakeFiles/react_codegen_pagerview.dir/react/renderer/components/pagerview/pagerviewJSI-generated.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/pagerview_autolinked_build/CMakeFiles/react_codegen_pagerview.dir/react/renderer/components/pagerview/pagerviewJSI-generated.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/ComponentDescriptors.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/ComponentDescriptors.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/EventEmitters.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/EventEmitters.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/Props.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/Props.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/ShadowNodes.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/ShadowNodes.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/States.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/States.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/rnreanimatedJSI-generated.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/rnreanimatedJSI-generated.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/rnreanimated-generated.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/rnreanimated-generated.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/RNVectorIconsSpec-generated.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/RNVectorIconsSpec-generated.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ComponentDescriptors.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ComponentDescriptors.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/EventEmitters.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/EventEmitters.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/Props.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/Props.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/RNVectorIconsSpecJSI-generated.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/RNVectorIconsSpecJSI-generated.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ShadowNodes.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ShadowNodes.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86_64/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/States.cpp.o",
+			"path" : "C:/Users/ADMIN/FixPegatoon1206-main/android/app/.cxx/Debug/681r6f2p/x86/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/States.cpp.o",
 			"sourceGroupIndex" : 1
 		}
 	],

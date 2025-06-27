@@ -23,7 +23,7 @@ export default function DetailComicScreen() {
   const { 
     user = { id: '', username: 'Khách', email: undefined }, 
     comic = { 
-      id: '', 
+      id: 'default-id', 
       title: 'Truyện chưa có tên', 
       image: require('../assets/default-comic.png'),
       author: undefined,
@@ -32,22 +32,17 @@ export default function DetailComicScreen() {
   } = params || {};
 
   const handleReadNow = () => {
+    // Kiểm tra thông tin truyện
     if (!comic.id || !comic.title) {
       Alert.alert('Lỗi', 'Thiếu thông tin truyện!');
       return;
     }
     
-    // Thêm log để debug
-    console.log('Navigating to ReadChapter with:', {
-      comicId: comic.id,
-      comicTitle: comic.title,
-      chapterNumber: 1
-    });
-  
+    // Chuyển sang màn hình ReadChapter với các tham số cần thiết
     navigation.navigate('ReadChapter', {
       comicId: comic.id,
       comicTitle: comic.title,
-      chapterNumber: 1, // Chapter đầu tiên
+      chapterNumber: 1, // Bắt đầu từ chapter 1
       isBookmarked: false // Mặc định chưa bookmark
     });
   };
@@ -69,7 +64,6 @@ export default function DetailComicScreen() {
           activeOpacity={0.8}
         > 
           <Text style={styles.readButtonText}>ĐỌC NGAY</Text>
-          
         </TouchableOpacity>
       </View>
 
@@ -81,7 +75,6 @@ export default function DetailComicScreen() {
           <Text style={styles.statText}>24.8K lượt xem</Text>
         </View>
 
-        {/* Hiển thị tác giả nếu có */}
         {comic.author && (
           <Text style={styles.label}>
             Tác giả: <Text style={styles.highlight}>{comic.author}</Text>
@@ -100,13 +93,11 @@ export default function DetailComicScreen() {
   );
 }
 
-// Giữ nguyên phần styles
 const styles = StyleSheet.create({
   container: { backgroundColor: '#000', flex: 1 },
   header: { position: 'relative' },
   banner: { width: width, height: (width * 9) / 16, resizeMode: 'cover' },
   readButton: {
-    
     position: 'absolute',
     bottom: 12,
     right: 20,

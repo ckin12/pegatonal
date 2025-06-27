@@ -38,17 +38,17 @@ export type RootStackParamList = {
   timkiem: undefined;
   SelectChapter: undefined;
   DetailComic: {
-    user: {
+    user?: {
       id: string;
       username: string;
       email?: string;
     };
-    comic: {
+    comic?: {
       id: string;
       title: string;
       image: string | number;
       author?: string;
-      chapters?: number;
+      chapters?: any[];
     };
   };
   ReadChapter: {

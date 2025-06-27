@@ -40,12 +40,6 @@ const slides: Slide[] = [
     text: 'Theo dõi truyện bạn thích và nhận thông báo mỗi khi có chương mới. Không bỏ lỡ bất kỳ diễn biến nào!',
     image: require('../assets/slide2.png'),
   },
-  {
-    key: '3',
-    title: 'Bình luận và kết nối cùng cộng đồng',
-    text: 'Tham gia thảo luận sôi nổi dưới mỗi chương truyện, chia sẻ cảm xúc cùng người đọc khác.',
-    image: require('../assets/slide3.png'),
-  },
 ];
 
 export default function OnboardingScreen() {

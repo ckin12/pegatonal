@@ -6,6 +6,7 @@
     "C:\\Users\\ADMIN\\FixPegatoon1206-main\\node_modules\\@react-native-picker\\picker\\android\\src\\main\\jni\\CMakeLists.txt",
     "C:\\Users\\ADMIN\\FixPegatoon1206-main\\node_modules\\react-native-gesture-handler\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
     "C:\\Users\\ADMIN\\FixPegatoon1206-main\\node_modules\\react-native-image-picker\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
+    "C:\\Users\\ADMIN\\FixPegatoon1206-main\\node_modules\\react-native-pager-view\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
     "C:\\Users\\ADMIN\\FixPegatoon1206-main\\node_modules\\react-native-reanimated\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
     "C:\\Users\\ADMIN\\FixPegatoon1206-main\\node_modules\\react-native-safe-area-context\\android\\src\\main\\jni\\CMakeLists.txt",
     "C:\\Users\\ADMIN\\FixPegatoon1206-main\\node_modules\\react-native-screens\\android\\src\\main\\jni\\CMakeLists.txt",
@@ -46,6 +47,11 @@
         "C:\\Users\\ADMIN\\.gradle\\caches\\8.13\\transforms\\eea336180d0506200638226c9258ed43\\transformed\\react-android-0.79.3-debug\\prefab\\modules\\jsi\\libs\\android.x86\\libjsi.so",
         "C:\\Users\\ADMIN\\.gradle\\caches\\8.13\\transforms\\eea336180d0506200638226c9258ed43\\transformed\\react-android-0.79.3-debug\\prefab\\modules\\reactnative\\libs\\android.x86\\libreactnative.so"
       ]
+    },
+    "react_codegen_pagerview::@7032a8921530ec438d60": {
+      "artifactName": "react_codegen_pagerview",
+      "abi": "x86",
+      "runtimeFiles": []
     },
     "react_codegen_rngesturehandler_codegen::@39f233abcd2c728bc6ec": {
       "artifactName": "react_codegen_rngesturehandler_codegen",
